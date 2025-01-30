@@ -1,0 +1,7 @@
+###
+GET http://187.16.75.250:3000 HTTP/1.1
+Content-Type: application/json
+
+{
+  "text": "teste"
+}
